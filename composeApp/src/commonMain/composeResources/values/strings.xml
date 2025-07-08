@@ -1,0 +1,10 @@
+<resources>
+    <string name="users_title">Users App</string>
+    <string name="user_action1">Call</string>
+    <string name="user_action2">Chat</string>
+    <string name="user_action3">Video</string>
+    <string name="user_info">Email</string>
+    <string name="error_message">Error :(</string>
+    <string name="error_btn">Try again</string>
+
+</resources>
